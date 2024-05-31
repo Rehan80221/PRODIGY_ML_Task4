@@ -1,8 +1,11 @@
 # PRODIGY_ML_Task4
 PRODIGY_ML_Task4:
-Linkedin:https://www.linkedin.com/posts/rehan-haneef-442555263_internship-prodigyinfotech-machinelearning-activity-7202291868309610496-K-q3?utm_source=share&utm_medium=member_desktop
+Linkedin:https://www.linkedin.com/posts/rehan-haneef-442555263_internship-prodigyinfotech-machinelearning-activity-7202292821884628993-XkVX?utm_source=share&utm_medium=member_desktop
+
 🖐️ Hand Gesture Recognition Model: Overview
+
 📊 Data Preparation
+
 Unzipping and Organizing the Dataset:
 Extracted the dataset and organized images into respective gesture categories.
 Data Exploration:
